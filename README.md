@@ -1,17 +1,20 @@
 # Greetings, 👋
 
-## Undergraduate Research Intern at GUGC, Center for Biosystems and Biotech Data Science
+## Research Intern at LAIT in UNIST AIGS
 
 I'm actively engaged in cutting-edge projects at the intersection of AI and biotech. Here's a glimpse of my recent work in 2024:
 
-- **MuSe2024 Challenge**  
+- **LAIT internship**  
+  Research on interpretability of generative models
+
+- [MuSe2024 Challenge](https://github.com/kyleok/MuSe2024)  
   Advancing multimodal social perception analysis (repository in progress)
   
 - [Thesis: AI Interpretability in Medical Imaging](https://github.com/ugent-korea/attention_maps/)  
   Exploring the potential of attention maps to address the interpretability crisis in AI-assisted medical imaging
 
-- **AI Summer School (AISS) 2024**  
-  Serving as a mentor to nurture the next generation of AI enthusiasts (repository in progress)
+- [AI Summer School (AISS) 2024](https://github.com/powersimmani/AISS2024),[and seminar](https://github.com/powersimmani/RC4_IRTP_Seminar_2024_Summer)  
+  Serving as a mentor to nurture the next generation of AI enthusiasts
 
 ### Previous Projects
 
