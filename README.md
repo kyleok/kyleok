@@ -7,7 +7,7 @@ I'm actively engaged in cutting-edge projects at the intersection of AI and biot
 - **MuSe2024 Challenge**  
   Advancing multimodal social perception analysis (repository in progress)
   
-- [Thesis: AI Interpretability in Medical Imaging](https://github.com/kyleok/Label-Anything)  
+- [Thesis: AI Interpretability in Medical Imaging](https://github.com/ugent-korea/attention_maps/)  
   Exploring the potential of attention maps to address the interpretability crisis in AI-assisted medical imaging
 
 - **AI Summer School (AISS) 2024**  
