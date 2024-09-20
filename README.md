@@ -13,7 +13,7 @@ I'm actively engaged in cutting-edge projects at the intersection of AI and biot
 - [Thesis: AI Interpretability in Medical Imaging](https://github.com/ugent-korea/attention_maps/)  
   Exploring the potential of attention maps to address the interpretability crisis in AI-assisted medical imaging
 
-- [AI Summer School (AISS) 2024](https://github.com/powersimmani/AISS2024),[and seminar](https://github.com/powersimmani/RC4_IRTP_Seminar_2024_Summer)  
+- [AI Summer School (AISS) 2024](https://github.com/powersimmani/AISS2024) and [seminar](https://github.com/powersimmani/RC4_IRTP_Seminar_2024_Summer)  
   Serving as a mentor to nurture the next generation of AI enthusiasts
 
 ### Previous Projects
